@@ -1,0 +1,24 @@
+body >h1{
+    color: rgb(241, 22, 153);
+    background-color: rgb(66, 219, 246);
+    justify-content: center;
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.buttons{
+   justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+
+button{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(241, 22, 153);
+    font-size: 20px;
+}
